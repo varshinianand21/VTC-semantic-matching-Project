@@ -1,0 +1,14 @@
+{
+  "w_gender": 1.5662,
+  "w_style": 2.9854,
+  "w_avail": 4.5732,
+  "w_age": 1.6212,
+  "w_quals": 4.503,
+  "w_edu": 0.0978,
+  "w_loc": 1.8387,
+  "w_recency": 2.6033,
+  "w_exp": 3.2474,
+  "w_persona": 3.7526,
+  "w_goals": 2.4569,
+  "decision_threshold": 0.6123
+}
